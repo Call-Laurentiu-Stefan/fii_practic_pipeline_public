@@ -36,4 +36,3 @@ resource "aws_dynamodb_table" "terraform_state_lock" {
     Name        = "FIIpractic"
   }
 }
-
